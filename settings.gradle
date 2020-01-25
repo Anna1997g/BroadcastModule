@@ -1,0 +1,2 @@
+include ':app', ':broadcastlibrary'
+rootProject.name='BroadCastModule'
